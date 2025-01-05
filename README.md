@@ -1,11 +1,13 @@
-* ⚙️ Tech Stack
+# Zentry animation website
+
+## ⚙️ Tech Stack
 
 - GSAP
 - React.js
 - Tailwind CSS
-- React-Use
+- React-use
 
-* 🔋 Features
+## 🔋 Features
 👉 Scroll-Based Animations: Dynamic animations triggered by scrolling for a more engaging user experience.
 
 👉 Clip Path Shaped Animations: Unique geometric transitions using CSS clip-paths to create visually stunning effects.
